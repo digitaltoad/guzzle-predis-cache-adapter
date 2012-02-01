@@ -10,7 +10,7 @@
          testSuiteLoaderClass="PHPUnit_Runner_StandardTestSuiteLoader">
 
     <testsuites>
-        <testsuite name="Guzzle">
+        <testsuite name="guzzle-predis-cache-adapter">
           <directory>./tests/Toad/Guzzle/Tests</directory>
         </testsuite>
     </testsuites>
