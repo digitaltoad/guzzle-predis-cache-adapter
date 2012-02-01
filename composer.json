@@ -1,9 +1,9 @@
 {
-  "name": "guzzle/predis-cache-adapter",
+  "name": "digitaltoad/predis-cache-adapter",
   "type": "library",
   "description": "A cache adapter for use with Predis",
   "keywords": ["Guzzle"],
-  "version": "0.1.1",
+  "version": "0.1.2",
   "authors": [
     {
       "name": "Joshua Borton",
